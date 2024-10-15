@@ -1,7 +1,10 @@
-let idadePessoa = 17
+if (validarIdade >=18)
+   console.log ("Voce de Maior");
+else if (validarIdade =0)
+   console.log ("Idade invalida");
+...
+else
+   console.log ("Voce de Menor");
+ 
+idadePessoa = 17
 
-if idadePessoa >= 18;
-  console.log("Vode é de Maior de Idade (+= 18) ");
-elseif 
-  console.log("Vode é de menor de Idade (- 18) ");
-endif
