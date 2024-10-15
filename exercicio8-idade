@@ -1,0 +1,7 @@
+let idadePessoa = 17
+
+if idadePessoa >= 18;
+  console.log("Vode é de Maior de Idade (+= 18) ");
+elseif 
+  console.log("Vode é de menor de Idade (- 18) ");
+endif
