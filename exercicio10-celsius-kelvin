@@ -1,0 +1,4 @@
+function cpf(celsius) {
+  return (celsius * 9/5) +32;
+}
+console.log("Kelvin" +cpf(100));
